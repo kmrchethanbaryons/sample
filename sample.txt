@@ -1,1 +1,1 @@
-It is the sample text
+It is the sample text. This is the dev branch. This is dev.
